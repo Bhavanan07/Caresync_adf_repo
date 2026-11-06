@@ -5,7 +5,7 @@
 		"type": "AzureSqlDatabase",
 		"typeProperties": {
 			"server": "caresync-server1105.database.windows.net",
-			"database": "master",
+			"database": "free-sql-db-7439271 ",
 			"encrypt": "mandatory",
 			"trustServerCertificate": false,
 			"authenticationType": "SQL",
